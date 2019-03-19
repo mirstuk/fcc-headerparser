@@ -1,0 +1,23 @@
+{
+  "name": "fcc-headerparser",
+  "version": "1.0.0",
+  "description": "freeCodeCamp APIs and microservices project",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirstuk/fcc-headerparser.git"
+  },
+  "author": "Francesco Mirabella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirstuk/fcc-headerparser/issues"
+  },
+  "homepage": "https://github.com/mirstuk/fcc-headerparser#readme"
+}
